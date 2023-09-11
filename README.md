@@ -12,8 +12,7 @@ This script extract the HTML document and list the product name, price and ratin
 
 ### Prerequisites
 
-To run this code on your local machine, you should have Python installed and an internet connection.
-
+To run this code on your local machine, you need internet connection and should have Python, Beautifulsoup4 and Pandas installed
 ## Author
 
 👤 **Jesús Meléndez**
