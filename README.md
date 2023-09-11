@@ -12,7 +12,7 @@ This script extract the HTML document and list the product name, price and ratin
 
 ### Prerequisites
 
-To make this repository working in your local machine you only need a browser.
+To run this code on your local machine, you should have Python installed and an internet connection.
 
 ## Author
 
