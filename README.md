@@ -1,6 +1,6 @@
 # scrapping-linux
 
-# Scrapping product list from a web page using python in Ubuntu system
+## Scrapping product list from a web page using Python in Ubuntu system
 
 ## About
 
