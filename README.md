@@ -4,7 +4,7 @@
 
 ## About
 
-This script extract the HTML document and list the product name, price and rating from a website, then save then in a .csv doc.
+This script extract the HTML document and list the product name, price and rating from a website, then save it in a .csv doc.
 
 ## Built With
 
